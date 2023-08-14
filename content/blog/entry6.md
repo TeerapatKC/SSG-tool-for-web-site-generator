@@ -1,6 +1,6 @@
 ---
-title: Whiteboard Marker
-tags: tag1, tag2
+title: Whiteboard marker
+tags: tag2
 category: Pen
 excerpt: Pros and cons of whiteboard markers.
 created: 2023-08-14

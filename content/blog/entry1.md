@@ -1,11 +1,11 @@
 ---
 title: What is Pen?
-tags: tag1, tag2
+tags: tag1
 category: Getting started
 excerpt: A pen is a very important tool for creating works of art and writing.
 created: 2023-08-13
 image: ./images/pens.jpg
-image_caption: Photo by Sadanand Lowanshi on Unsplash
+image_caption: Photo in pinterest
 author: author1
 ---
 

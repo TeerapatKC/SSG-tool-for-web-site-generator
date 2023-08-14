@@ -1,10 +1,10 @@
 ---
-title: Ballpoint Pen
-tags: tag1, tag2
+title: Ballpoint pen
+tags: tag2
 category: Pen
 excerpt: Pros and cons of ballpoint pens.
 created: 2023-08-14
-image: ./ballpoint_pen.jpg
+image: ./images/ballpoint_pen.jpg
 image_caption: Photo in pinterest
 author: author2
 ---

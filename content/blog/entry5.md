@@ -1,6 +1,6 @@
 ---
-title: Marker Pen
-tags: tag1, tag2
+title: Marker pen
+tags: tag2
 category: Pen
 excerpt: Pros and cons of marker pens.
 created: 2023-08-14

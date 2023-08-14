@@ -1,6 +1,6 @@
 ---
-title: Gel Pen
-tags: tag1, tag2
+title: Gel pen
+tags: tag2
 category: Pen
 excerpt: Pros and cons of gel pens.
 created: 2023-08-14

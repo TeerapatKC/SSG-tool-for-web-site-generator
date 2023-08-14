@@ -1,6 +1,6 @@
 ---
 title: Highlighter
-tags: tag1, tag2
+tags: tag2
 category: Pen
 excerpt: Pros and cons of highlighters.
 created: 2023-08-14
